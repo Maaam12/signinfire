@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790507994307",
+    "project_id": "signin-efc4d",
+    "storage_bucket": "signin-efc4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790507994307:android:14f8d1907b1c7a5cf47676",
+        "android_client_info": {
+          "package_name": "com.example.signinfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790507994307-e39as4jh11uf5ph3covpb7b9485uo3j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSR6dR7JtX7jK8XYGbNT7ogNJR_PtVtF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790507994307-e39as4jh11uf5ph3covpb7b9485uo3j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
